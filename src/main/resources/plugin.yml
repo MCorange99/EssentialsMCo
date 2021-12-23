@@ -1,0 +1,12 @@
+name: EssentialsMCo
+version: '${project.version}'
+main: mcorange.essentialsmco.Main
+api-version: 1.18
+prefix: EssMCo
+authors: [ MCorange ]
+description: A plugin that i made
+
+commands:
+  hello:
+    aliases: [hi]
+    description: This is the hello command!
